@@ -7,8 +7,6 @@
   <img alt="Ashe's Email" src="https://img.icons8.com/material/24/000000/send-mass-email.png" />
 </a>
 
-## 프로필
-
 **도구의 발견**과 **사용**을 사랑하는 개발자입니다.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
