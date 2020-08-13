@@ -11,14 +11,6 @@
 
 도구의 발견과 사용을 사랑하는 개발자입니다.
 
-### 깃헙의 상태는 어떤가요?
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=ashekr&count_private=true&show_icons=true" />
 </a>
-
-### 어떤 언어를 가장 많이 쓰고있나요?
-
-<a href="https://github.com/anuraghazra/convoychat">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashekr" />
-</a>  
